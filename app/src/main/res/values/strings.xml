@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reel Golf</string>
+    <string name="title_activity_services">Services</string>
+    <string name="title_activity_google_map">GoogleMapActivity</string>
+    <string name="title_activity_google_maps">GoogleMaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="maps_label">Home</string>
+    <string name="no_account_nsignup">No account? Signup</string>
+    <string name="have_an_account_nlogin">Have an account? Login</string>
+</resources>
